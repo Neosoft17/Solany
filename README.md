@@ -1,0 +1,2 @@
+# Solany
+Sistema operacional pernambucano
